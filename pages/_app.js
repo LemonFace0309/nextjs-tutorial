@@ -1,3 +1,4 @@
+import 'bootstrap/dist/css/bootstrap.min.css';
 import '../styles/main.scss' // global styles should be imported into this file
 
 import React from 'react';
